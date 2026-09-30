@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:0F766E&height=200&section=header&text=Besh0x79&fontSize=64&fontColor=E6EDF3&fontAlignY=40&desc=Cloud%20%26%20Network%20Security%20%7C%20Binary%20Exploitation&descAlignY=62&descSize=18&descColor=5EEAD4" width="100%" alt="Besh0x79" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:0F766E&height=200&section=header&text=Besh0x79&fontSize=64&fontColor=E6EDF3&fontAlignY=40&desc=Cloud%20and%20Network%20Security%20%7C%20Binary%20Exploitation&descAlignY=62&descSize=18&descColor=5EEAD4" width="100%" alt="Besh0x79" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=5EEAD4&center=true&vCenter=true&width=700&height=40&lines=Aspiring+Cloud+%26+Network+Penetration+Tester;AWS+Security+%C2%B7+Binary+Exploitation+%C2%B7+CTF;Break+it+legally.+Learn+it+deeply.+Share+it+openly." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=5EEAD4&center=true&vCenter=true&width=700&height=40&lines=Aspiring+Cloud+and+Network+Penetration+Tester;AWS+Security+%C2%B7+Binary+Exploitation+%C2%B7+CTF;Break+it+legally.+Learn+it+deeply.+Share+it+openly." alt="Typing SVG" />
 
 <br/>
 
