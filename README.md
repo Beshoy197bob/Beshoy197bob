@@ -14,7 +14,7 @@
 
 <br/>
 
-## 👤 About
+## About
 
 Aspiring penetration tester focused on **cloud and network security**. I'm building hands-on experience in AWS security assessment, network penetration testing, and binary exploitation through labs, CTF competitions, and independent study.
 
@@ -26,7 +26,7 @@ My approach is methodical: understand how a system is designed to work, identify
 
 <br/>
 
-## 🎯 Focus Areas
+## Focus Areas
 
 <table>
 <tr>
@@ -68,7 +68,7 @@ My approach is methodical: understand how a system is designed to work, identify
 
 <br/>
 
-## 🧭 Methodology
+## Methodology
 
 <div align="center">
 
@@ -78,7 +78,7 @@ My approach is methodical: understand how a system is designed to work, identify
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -88,7 +88,7 @@ My approach is methodical: understand how a system is designed to work, identify
 
 <br/>
 
-## 🧰 Security Toolbox
+## Security Toolbox
 
 <div align="center">
 
@@ -107,7 +107,7 @@ My approach is methodical: understand how a system is designed to work, identify
 
 <br/>
 
-## 🚩 CTF & Labs
+## CTF & Labs
 
 <div align="center">
 
@@ -119,7 +119,7 @@ My approach is methodical: understand how a system is designed to work, identify
 
 <br/>
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
