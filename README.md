@@ -16,11 +16,13 @@
 
 ## 👤 About
 
-I'm a security learner focused on **offensive security**, with an emphasis on **AWS environments**, **network penetration testing**, and **binary exploitation**. I approach every system with one principle in mind:
+Aspiring penetration tester focused on **cloud and network security**. I'm building hands-on experience in AWS security assessment, network penetration testing, and binary exploitation through labs, CTF competitions, and independent study.
 
-> *Behind every vulnerability is a human assumption that turned out to be wrong.*
+My approach is methodical: understand how a system is designed to work, identify the assumptions it relies on, then test whether those assumptions hold.
 
-I'm looking to **team up for CTFs** and collaborate on **cloud security research**. Feel free to ask me about AWS security, network pentesting, CTFs, or pentest methodology.
+- **Currently learning:** AWS privilege escalation, network pivoting, and heap exploitation
+- **Open to:** CTF teams and collaboration on cloud security research
+- **Ask me about:** AWS security, network pentesting, CTFs, and pentest methodology
 
 <br/>
 
